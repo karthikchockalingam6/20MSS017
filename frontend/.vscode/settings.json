@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontWeight": "normal",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript"
+    ]
+}
